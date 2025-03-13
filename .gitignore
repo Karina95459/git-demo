@@ -1,0 +1,16 @@
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+/Contacts/
+/Favorites/
+/Music/
+/VirtualBox VMs/
+/source/
+/PycharmProjects/
+/.vscode/
+/.ssh/
+/.gitconfig
+
